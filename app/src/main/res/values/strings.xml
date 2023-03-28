@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My First Application</string>
+        <string-array name="units">
+            <item>Inch</item>
+            <item>Foot</item>
+            <item>Yard</item>
+            <item>Mile</item>
+        </string-array>
 </resources>
